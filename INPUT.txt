@@ -1,0 +1,59 @@
+25
+25
+50
+5000
+245000
+64
+0
+0
+
+1
+0
+1
+0
+1
+
+3
+10
+10
+1
+0.729844
+1.494
+60
+0
+0
+1
+2.56
+5.12
+300
+
+
+
+//////
+[100]     N (grid size)
+[100]     M (grid size)
+[50]      number of runs
+[1000]    Iterations (maximum)
+[3000]    Size of the Swarm (number of particles)
+[0]       Mutation: 0 - no; 1 - mutate x worst
+[0]       Bak-Sneppen model
+
+[0]       PSO: 0 - NO; 1 - YES
+[1]       random Structure? 0 - no; 1 - yes
+[0]       neighborhood: 0 - Moore; 1 - Von Neumann
+[0]       gbest? 0 - no; 1 - yes
+[0]       Memory? 0 - no; 1 - yes
+
+[1]     Problem: 1 - Sphere; 2 - Rosenbrock; 3 - Rastrigin; 4 - Griewank; 5 - Schaffer
+[100]   Xmax
+[100]   Vmax
+[1]	chi
+[0.72]	omega
+[1.9]   c
+[30]    Number of Variables
+[0]     inertia Weight: 0 - fixed; 1 - TVIW (0.9--0.4)
+[0]     c strategy:     0 - fixed: 1 - TVAC-PSO
+[1]     assymetric initialization: 0 - NO; 1- YES
+[50]    Assymetric initialization: min
+[100]   Assymetric initialization: min
+[100]   stop criterion
